@@ -1,0 +1,271 @@
+Kanton; Jahr; Einwohnerzahl_Kanton
+Aargau; 2012; 627340.0
+Appenzell A. Rh.; 2012; 53438.0
+Appenzell I. Rh.; 2012; 15717.0
+Basel-Landschaft; 2012; 276537.0
+Basel-Stadt; 2012; 187425.0
+Bern; 2012; 992617.0
+Freiburg; 2012; 291395.0
+Genf; 2012; 463101.0
+Glarus; 2012; 39369.0
+Graubünden; 2012; 193920.0
+Jura; 2012; 70942.0
+Luzern; 2012; 386082.0
+Neuenburg; 2012; 174554.0
+Nidwalden; 2012; 41584.0
+Obwalden; 2012; 36115.0
+Schaffhausen; 2012; 77955.0
+Schweiz; 2012; 8039060.0
+Schwyz; 2012; 149830.0
+Solothurn; 2012; 259283.0
+St. Gallen; 2012; 487060.0
+Tessin; 2012; 341652.0
+Thurgau; 2012; 256213.0
+Uri; 2012; 35693.0
+Waadt; 2012; 734356.0
+Wallis; 2012; 321732.0
+Zug; 2012; 116575.0
+Zürich; 2012; 1408575.0
+Aargau; 2013; 636362.0
+Appenzell A. Rh.; 2013; 53691.0
+Appenzell I. Rh.; 2013; 15778.0
+Basel-Landschaft; 2013; 278656.0
+Basel-Stadt; 2013; 189335.0
+Bern; 2013; 1001281.0
+Freiburg; 2013; 297622.0
+Genf; 2013; 469433.0
+Glarus; 2013; 39593.0
+Graubünden; 2013; 194959.0
+Jura; 2013; 71738.0
+Luzern; 2013; 390349.0
+Neuenburg; 2013; 176402.0
+Nidwalden; 2013; 41888.0
+Obwalden; 2013; 36507.0
+Schaffhausen; 2013; 78783.0
+Schweiz; 2013; 8139631.0
+Schwyz; 2013; 151396.0
+Solothurn; 2013; 261437.0
+St. Gallen; 2013; 491699.0
+Tessin; 2013; 346539.0
+Thurgau; 2013; 260278.0
+Uri; 2013; 35865.0
+Waadt; 2013; 749373.0
+Wallis; 2013; 327011.0
+Zug; 2013; 118118.0
+Zürich; 2013; 1425538.0
+Aargau; 2014; 645277.0
+Appenzell A. Rh.; 2014; 54064.0
+Appenzell I. Rh.; 2014; 15854.0
+Basel-Landschaft; 2014; 281301.0
+Basel-Stadt; 2014; 190580.0
+Bern; 2014; 1009418.0
+Freiburg; 2014; 303377.0
+Genf; 2014; 477385.0
+Glarus; 2014; 39794.0
+Graubünden; 2014; 195886.0
+Jura; 2014; 72410.0
+Luzern; 2014; 394604.0
+Neuenburg; 2014; 177327.0
+Nidwalden; 2014; 42080.0
+Obwalden; 2014; 36834.0
+Schaffhausen; 2014; 79417.0
+Schweiz; 2014; 8237666.0
+Schwyz; 2014; 152759.0
+Solothurn; 2014; 263719.0
+St. Gallen; 2014; 495824.0
+Tessin; 2014; 350363.0
+Thurgau; 2014; 263733.0
+Uri; 2014; 36008.0
+Waadt; 2014; 761446.0
+Wallis; 2014; 331763.0
+Zug; 2014; 120089.0
+Zürich; 2014; 1446354.0
+Aargau; 2015; 653675.0
+Appenzell A. Rh.; 2015; 54543.0
+Appenzell I. Rh.; 2015; 15974.0
+Basel-Landschaft; 2015; 283231.0
+Basel-Stadt; 2015; 191817.0
+Bern; 2015; 1017483.0
+Freiburg; 2015; 307461.0
+Genf; 2015; 484736.0
+Glarus; 2015; 40028.0
+Graubünden; 2015; 196610.0
+Jura; 2015; 72782.0
+Luzern; 2015; 398762.0
+Neuenburg; 2015; 178107.0
+Nidwalden; 2015; 42420.0
+Obwalden; 2015; 37076.0
+Schaffhausen; 2015; 79836.0
+Schweiz; 2015; 8327126.0
+Schwyz; 2015; 154093.0
+Solothurn; 2015; 266418.0
+St. Gallen; 2015; 499065.0
+Tessin; 2015; 351946.0
+Thurgau; 2015; 267429.0
+Uri; 2015; 35973.0
+Waadt; 2015; 773407.0
+Wallis; 2015; 335696.0
+Zug; 2015; 122134.0
+Zürich; 2015; 1466424.0
+Aargau; 2016; 663462.0
+Appenzell A. Rh.; 2016; 54954.0
+Appenzell I. Rh.; 2016; 16003.0
+Basel-Landschaft; 2016; 285624.0
+Basel-Stadt; 2016; 193070.0
+Bern; 2016; 1026513.0
+Freiburg; 2016; 311914.0
+Genf; 2016; 489524.0
+Glarus; 2016; 40147.0
+Graubünden; 2016; 197550.0
+Jura; 2016; 73122.0
+Luzern; 2016; 403397.0
+Neuenburg; 2016; 178567.0
+Nidwalden; 2016; 42556.0
+Obwalden; 2016; 37378.0
+Schaffhausen; 2016; 80769.0
+Schweiz; 2016; 8419550.0
+Schwyz; 2016; 155863.0
+Solothurn; 2016; 269441.0
+St. Gallen; 2016; 502552.0
+Tessin; 2016; 354375.0
+Thurgau; 2016; 270709.0
+Uri; 2016; 36145.0
+Waadt; 2016; 784822.0
+Wallis; 2016; 339176.0
+Zug; 2016; 123948.0
+Zürich; 2016; 1487969.0
+Aargau; 2017; 670988.0
+Appenzell A. Rh.; 2017; 55178.0
+Appenzell I. Rh.; 2017; 16105.0
+Basel-Landschaft; 2017; 287023.0
+Basel-Stadt; 2017; 193908.0
+Bern; 2017; 1031126.0
+Freiburg; 2017; 315074.0
+Genf; 2017; 495249.0
+Glarus; 2017; 40349.0
+Graubünden; 2017; 197888.0
+Jura; 2017; 73290.0
+Luzern; 2017; 406506.0
+Neuenburg; 2017; 177964.0
+Nidwalden; 2017; 42969.0
+Obwalden; 2017; 37575.0
+Schaffhausen; 2017; 81351.0
+Schweiz; 2017; 8484130.0
+Schwyz; 2017; 157301.0
+Solothurn; 2017; 271432.0
+St. Gallen; 2017; 504686.0
+Tessin; 2017; 353709.0
+Thurgau; 2017; 273801.0
+Uri; 2017; 36299.0
+Waadt; 2017; 793129.0
+Wallis; 2017; 341463.0
+Zug; 2017; 125421.0
+Zürich; 2017; 1504346.0
+Aargau; 2018; 678207.0
+Appenzell A. Rh.; 2018; 55234.0
+Appenzell I. Rh.; 2018; 16145.0
+Basel-Landschaft; 2018; 288132.0
+Basel-Stadt; 2018; 194766.0
+Bern; 2018; 1034977.0
+Freiburg; 2018; 318714.0
+Genf; 2018; 499480.0
+Glarus; 2018; 40403.0
+Graubünden; 2018; 198379.0
+Jura; 2018; 73419.0
+Luzern; 2018; 409557.0
+Neuenburg; 2018; 176850.0
+Nidwalden; 2018; 43223.0
+Obwalden; 2018; 37841.0
+Schaffhausen; 2018; 81991.0
+Schweiz; 2018; 8544527.0
+Schwyz; 2018; 159165.0
+Solothurn; 2018; 273194.0
+St. Gallen; 2018; 507697.0
+Tessin; 2018; 353343.0
+Thurgau; 2018; 276472.0
+Uri; 2018; 36433.0
+Waadt; 2018; 799145.0
+Wallis; 2018; 343955.0
+Zug; 2018; 126837.0
+Zürich; 2018; 1520968.0
+Aargau; 2019; 685845.0
+Appenzell A. Rh.; 2019; 55445.0
+Appenzell I. Rh.; 2019; 16128.0
+Basel-Landschaft; 2019; 289468.0
+Basel-Stadt; 2019; 195844.0
+Bern; 2019; 1039474.0
+Freiburg; 2019; 321783.0
+Genf; 2019; 504128.0
+Glarus; 2019; 40590.0
+Graubünden; 2019; 199021.0
+Jura; 2019; 73584.0
+Luzern; 2019; 413120.0
+Neuenburg; 2019; 176496.0
+Nidwalden; 2019; 43087.0
+Obwalden; 2019; 37930.0
+Schaffhausen; 2019; 82348.0
+Schweiz; 2019; 8606033.0
+Schwyz; 2019; 160480.0
+Solothurn; 2019; 275247.0
+St. Gallen; 2019; 510734.0
+Tessin; 2019; 351491.0
+Thurgau; 2019; 279547.0
+Uri; 2019; 36703.0
+Waadt; 2019; 805098.0
+Wallis; 2019; 345525.0
+Zug; 2019; 127642.0
+Zürich; 2019; 1539275.0
+Aargau; 2020; 694072.0
+Appenzell A. Rh.; 2020; 55309.0
+Appenzell I. Rh.; 2020; 16293.0
+Basel-Landschaft; 2020; 290969.0
+Basel-Stadt; 2020; 196735.0
+Bern; 2020; 1043132.0
+Freiburg; 2020; 325496.0
+Genf; 2020; 506343.0
+Glarus; 2020; 40851.0
+Graubünden; 2020; 200096.0
+Jura; 2020; 73709.0
+Luzern; 2020; 416347.0
+Neuenburg; 2020; 175894.0
+Nidwalden; 2020; 43520.0
+Obwalden; 2020; 38108.0
+Schaffhausen; 2020; 83107.0
+Schweiz; 2020; 8670300.0
+Schwyz; 2020; 162157.0
+Solothurn; 2020; 277462.0
+St. Gallen; 2020; 514504.0
+Tessin; 2020; 350986.0
+Thurgau; 2020; 282909.0
+Uri; 2020; 36819.0
+Waadt; 2020; 814762.0
+Wallis; 2020; 348503.0
+Zug; 2020; 128794.0
+Zürich; 2020; 1553423.0
+Aargau; 2021; 703086.0
+Appenzell A. Rh.; 2021; 55585.0
+Appenzell I. Rh.; 2021; 16360.0
+Basel-Landschaft; 2021; 292817.0
+Basel-Stadt; 2021; 196036.0
+Bern; 2021; 1047473.0
+Freiburg; 2021; 329809.0
+Genf; 2021; 509448.0
+Glarus; 2021; 41190.0
+Graubünden; 2021; 201376.0
+Jura; 2021; 73798.0
+Luzern; 2021; 420326.0
+Neuenburg; 2021; 176166.0
+Nidwalden; 2021; 43894.0
+Obwalden; 2021; 38435.0
+Schaffhausen; 2021; 83995.0
+Schweiz; 2021; 8738791.0
+Schwyz; 2021; 163689.0
+Solothurn; 2021; 280245.0
+St. Gallen; 2021; 519245.0
+Tessin; 2021; 352181.0
+Thurgau; 2021; 285964.0
+Uri; 2021; 37047.0
+Waadt; 2021; 822968.0
+Wallis; 2021; 353209.0
+Zug; 2021; 129787.0
+Zürich; 2021; 1564662.0
