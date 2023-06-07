@@ -5,13 +5,13 @@ name = "pypi"
 
 [packages]
 ipykernel = "*"
+seaborn = "*"
 pandas = "*"
 numpy = "*"
 scipy = "*"
 matplotlib = "*"
 openpyxl = "*"
-seaborn = "*"
-sklearn = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
